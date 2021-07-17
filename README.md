@@ -1,1 +1,2 @@
-# GYM-APP-POC
+# Gymapp
+Building gym app
